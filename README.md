@@ -1,6 +1,9 @@
 # Assembly Instructions 
 
-![Alt Text](https://github.com/cellworld/robot_assembly/blob/master/robot_overview.png)
+<!-- ![Alt Text](https://github.com/cellworld/robot_assembly/blob/master/robot_overview.png) -->
+<p align="center">
+  <img src="https://github.com/cellworld/robot_assembly/blob/master/robot_overview.png" alt="robot_overview" width="600" height="200">
+</p>
 
 
 ## 3D printed parts
@@ -15,7 +18,4 @@
 
 ## PCB assembly
 
-<p align="center">
-  <img src="https://github.com/cellworld/robot_assembly/blob/master/robot_overview.png" alt="robot_overview" width="600" height="200">
-</p>
 
