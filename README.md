@@ -7,6 +7,13 @@
 
 
 ## 3D printed parts
+* chassis.stl 
+* pump_holder.stl
+* motor_stopper.stl
+* motor_platform.stl
+* lever_arm.stl
+* cam.stl
+
 
 
 ## Printed circuit board (PCB) Parts
