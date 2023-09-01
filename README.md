@@ -2,7 +2,7 @@
 
 <!-- ![Alt Text](https://github.com/cellworld/robot_assembly/blob/master/robot_overview.png) -->
 <p align="center">
-  <img src="https://github.com/cellworld/robot_assembly/blob/master/robot_overview.png" alt="robot_overview" width="600" height="200">
+  <img src="https://github.com/cellworld/robot_assembly/blob/master/images/robot_overview.png" alt="robot_overview" width="600" height="200">
 </p>
 
 
