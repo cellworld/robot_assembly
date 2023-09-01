@@ -16,7 +16,8 @@
 
 
 
-## Printed circuit board (PCB) Parts
+## Printed circuit board (PCB) components
+
 
 
 ## Chassis assembly
