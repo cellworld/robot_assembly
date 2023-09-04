@@ -14,16 +14,27 @@
 * lever_arm.stl
 * cam.stl
 
+## Robot and aversive puff parts
+* Brushed DC motor (120:1 Mini
+Plastic Gearmotor HP, Pololu, Las Vegas,
+Nevada, USA)
+* Motor shaft adapter
+* 16g CO2 canister and inflator (Ultraflate, Genuine Innovations, San Luis Obispo, CA, USA)
 
 
 ## Printed circuit board (PCB) components
+* Microcontroller (ESP32-WROOM-32D, Espressif Systems, Shanghia, Shanghai,
+China)
 
 
+
+## PCB assembly
+*Numbers in *
 
 ## Chassis assembly
 ### Main chassis
 ### Stimuli module 
 
-## PCB assembly
+
 
 
