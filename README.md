@@ -24,7 +24,7 @@ Nevada, USA)
 
 ## Printed circuit board (PCB) components
 <p align="center">
-  <img src="https://github.com/cellworld/robot_assembly/blob/master/images/pcb.png" alt="pcb" width="600" height="200">
+  <img src="https://github.com/cellworld/robot_assembly/blob/master/images/pcb.png" alt="pcb" width="600" height="300">
 </p>
 * Microcontroller (ESP32-WROOM-32D, Espressif Systems, Shanghia, Shanghai,
 China)
