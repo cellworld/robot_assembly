@@ -23,13 +23,17 @@ Nevada, USA)
 
 
 ## Printed circuit board (PCB) components
+<p align="center">
+  <img src="https://github.com/cellworld/robot_assembly/blob/master/images/pcb.png" alt="pcb" width="600" height="200">
+</p>
 * Microcontroller (ESP32-WROOM-32D, Espressif Systems, Shanghia, Shanghai,
 China)
 
 
 
 ## PCB assembly
-*Numbers in *
+
+
 
 ## Chassis assembly
 ### Main chassis
