@@ -47,7 +47,7 @@
 
 ## Chassis assembly
 <p align="center">
-  <img src="https://github.com/cellworld/robot_assembly/blob/master/images/robot_labeled_assembly-01.png" alt="labeled robot" width="300" height="300">
+  <img src="https://github.com/cellworld/robot_assembly/blob/master/images/robot_labeled_assembly-01.png" alt="labeled robot" width="400" height="400">
 </p>
 ### Main chassis
 1. Attach the two ABS idler sprockets from the *track set* to *chassis.stl* with a M3 shoulder bolt with a 5mm threaded portion, a washer, and a bolt.
