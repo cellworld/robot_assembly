@@ -19,7 +19,7 @@
 * **Motor shaft adapter** ( Pololu Universal Aluminum Mounting Hub for 3mm Shaft, M3 Holes (2-Pack), Pololu, Las Vegas, Nevada, USA, part no. 1996)
 * **Valve stem extender** (2-Pack Tire Valve Extension 45 Degree, LEEGAWU)
 * **16g CO2 canister and inflator** (Ultraflate, Genuine Innovations, San Luis Obispo, CA, USA)
-* **Geared DC motor with magnetic encoder outputs** (Geared DC Motor with Magnetic Encoder Outputs - 7 VDC 1:20 Ratio, Adafruit, New York, NY, USA, part no. 4416)
+* **Drivetrain motor** (Geared DC Motor with Magnetic Encoder Outputs - 7 VDC 1:20 Ratio, Adafruit, New York, NY, USA, part no. 4416)
 * **Battery** 7.4V (7.4V 1000mAh Odamiya Plug Lithium Battery, PUOO)
 * **Track set**(Pololu 22T Track Set - Black, Pololu, Las Vegas, Nevada, USA, part no. 3030)
 
@@ -48,7 +48,13 @@
 ## Chassis assembly
 <!-- add pic of robot assembly change labels to match stl files-->
 ### Main chassis
-
+1. Attach the two ABS idler sprockets from the *track set* to *chassis.stl* with a M3 shoulder bolts with a 5mm threaded portion, a washer, and a bolt.
+2. Mount two *drivetrain motors*  to *chassis.stl* with M3 screws
+3. Attach the two ABS drive sprockets to the *drivetrain motor* shafts.
+4. Attach the two silicone tracks
+5. Insert the *main pcb* into the back of the *chassis.stl* and connect it to the *drivetrain motors*
+6. Insert the *battery* and connect it to the *main pcb*
+   
 ### Stimuli module 
 
 
