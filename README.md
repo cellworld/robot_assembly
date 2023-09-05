@@ -48,21 +48,21 @@
 ## Chassis assembly
 <!-- add pic of robot assembly change labels to match stl files-->
 ### Main chassis
-1. Attach the two ABS idler sprockets from the *track set* to *chassis.stl* with a M3 shoulder bolts with a 5mm threaded portion, a washer, and a bolt.
+1. Attach the two ABS idler sprockets from the *track set* to *chassis.stl* with a M3 shoulder bolt with a 5mm threaded portion, a washer, and a bolt.
 2. Mount two *drivetrain motors*  to *chassis.stl* with M3 screws
-3. Attach the two ABS drive sprockets to the *drivetrain motor* shafts.
+3. Attach the two ABS drive sprockets to the *drivetrain motor* shafts
 4. Attach the two silicone tracks
 5. Insert the *main PCB* into the back of the *chassis.stl* and connect it to the *drivetrain motors*
 6. Insert the *battery* and connect it to the *main pcb*
    
 ### Stimuli module 
-1. Insert two standoffs into the two front through holes in *chassis.stl*
+1. Insert two M3 standoffs into the two front through holes in *chassis.stl*
 2. Press fit the *pump_holder.stl* onto the standoffs
 3. Add the *16g CO2 canister and inflator*  with *lever_arm.stl* press fit onto it
 4. Slide components into the back channel on the  *pump_holder.stl*:
-   1. *motor_platform.stl*, so that its rounded surfacew rests against the CO2 canister
+   1. *motor_platform.stl*, so that its rounded surface rests against the CO2 canister
    2. *plastic gearmotor* (with *cam.stl*  fixed to it with the *motor shaft adapter*)
-   3. *motor_stopper.stl*
+   3. *motor_stopper.stl* 
 5. Fix the PCB with LEDs on it to the top of the *motor_stopper.stl* and connect it to the *main PCB* and the *plastic gearmotor*
    
 # Code
