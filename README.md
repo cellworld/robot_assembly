@@ -56,7 +56,7 @@
 6. Insert the *battery* and connect it to the *main pcb*
    
 ### Stimuli module 
-1. Insert two standoffs into the two fron through holes in *chassis.stl*
+1. Insert two standoffs into the two front through holes in *chassis.stl*
 2. Press fit the *pump_holder.stl* onto the standoffs
 3. Add the *16g CO2 canister and inflator*  with *lever_arm.stl* press fit onto it
 4. Slide components into the back channel on the  *pump_holder.stl*:
