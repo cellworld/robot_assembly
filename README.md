@@ -70,6 +70,6 @@
    
 # Code
 Relevant code for the robot resides in seperate repositories.
-* OTA programming code: <!-- add OTA code repo-->
+* OTA programming code: https://github.com/cellworld/ESP32_OTA_programmer 
 * Embedded code for BotEvade task: https://github.com/cellworld/robot_embedded_code
 
