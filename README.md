@@ -21,7 +21,7 @@
 * **16g CO2 canister and inflator** (Ultraflate, Genuine Innovations, San Luis Obispo, CA, USA)
 * **Drivetrain motor** (Geared DC Motor with Magnetic Encoder Outputs - 7 VDC 1:20 Ratio, Adafruit, New York, NY, USA, part no. 4416)
 * **Battery** 7.4V (7.4V 1000mAh Odamiya Plug Lithium Battery, PUOO)
-* **Track set**(Pololu 22T Track Set - Black, Pololu, Las Vegas, Nevada, USA, part no. 3030)
+* **Track set** (Pololu 22T Track Set - Black, Pololu, Las Vegas, Nevada, USA, part no. 3030)
 
 
 ## Printed circuit board (PCB) components
@@ -49,6 +49,7 @@
 <p align="center">
   <img src="https://github.com/cellworld/robot_assembly/blob/master/images/robot_labeled_assembly-01.png" alt="labeled robot" width="400" height="400">
 </p>
+
 ### Main chassis
 1. Attach the two ABS idler sprockets from the *track set* to *chassis.stl* with a M3 shoulder bolt with a 5mm threaded portion, a washer, and a bolt.
 2. Mount two *drivetrain motors*  to *chassis.stl* with M3 screws
