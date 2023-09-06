@@ -38,10 +38,12 @@
 * **Push button** (TACT 5.2 X 5.2, 1.5 MM H, 260GF, C&K, Digi-key part no. CKN12221-6-ND)
 * **Red LED** (SMD 0603 (1.6mm x 0.8mm) Red LED Diode, Chanzon)
 * **Resistor** $1 \Omega$ (RES 1 OHM 5% 1/4W 0402)
-* **Motor with magnetic encoder outputs cable** (6 CIRC PICOBLADE RECP:PLUG 150MM, Molex, Lisle, IL, USA, Digi-key part no. 	900-2181130601-ND)
+* **Drivetrain motor cable** (6 CIRC PICOBLADE RECP:PLUG 150MM, Molex, Lisle, IL, USA, Digi-key part no. 	900-2181130601-ND)
 * **Plastic gearmotor cable** (JUMPER WIRE 0.1" 2-PIN 6", SparkFun Electronics, Niwot, CO, USA, Digi-key part no. 1568-1929-ND)
 * **PCB connection cable** (JUMPER WIRE 0.1" 5-PIN 6", SparkFun Electronics, Niwot, CO, USA, Digi-key part no. 1568-1932-ND)
 
+## PCB Assembly
+This PCB was design using EAGLE. It is PCB CAD software. EAGLE is available from Autodesk either as part of the Fusion 360 software package or you can a free version of just EAGLE [here](https://www.autodesk.com/products/eagle/free-download). The EAGLE project, associated library, and gerber files are located in the pcb directory [here](https://github.com/cellworld/robot_assembly/tree/master/pcb/).
 
 
 
