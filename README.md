@@ -71,7 +71,7 @@ This PCB was design using EAGLE. It is PCB CAD software. EAGLE is available from
 5. Fix the PCB with LEDs on it to the top of the *motor_stopper.stl* and connect it to the *main PCB* and the *plastic gearmotor*
    
 # Code
-Relevant code for the robot resides in seperate repositories.
-* OTA programming code: https://github.com/cellworld/ESP32_OTA_programmer 
-* Embedded code for BotEvade task: https://github.com/cellworld/robot_embedded_code
+Relevant code for the robot resides in separate repositories.
+* OTA programming code: [Link](https://github.com/cellworld/ESP32_OTA_programmer)
+* Embedded code for BotEvade task: [Link](https://github.com/cellworld/robot_embedded_code/tree/b2fe92d203f52c9526e03de08260bb5708b2de43)
 
